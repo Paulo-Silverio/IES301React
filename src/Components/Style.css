@@ -1,0 +1,37 @@
+
+/* Página Inicial */
+
+.pag {
+	background-color: #f4f4f4;
+	margin: 0 auto;
+	border-radius: 15px;
+	color: #333;
+	margin-top: 2%;
+	width: 80%;
+	padding: 2%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	text-align: center;
+}
+
+.lista {
+	padding-top: 4%;
+	list-style: none;
+	color: #333;
+}
+
+.cor {
+	color: #333;
+	text-decoration: none;
+}
+
+.quadrado {
+	background-color: #e6e6e6;
+	width: calc(33.33% - 20px);
+	margin: 10px;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	transition: background-color 0.4s ease;
+}
+
+

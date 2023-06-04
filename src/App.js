@@ -1,12 +1,13 @@
 
-import Relogio from "./Components/Relogio";
-import Letreiro from "./Components/Letreiro";
+import MinhasRotas from "./minhasRotas";
+import React from "react";
+
+
 
 function App() {
   return (
     <>
-      <Relogio />
-      <Letreiro />
+      <MinhasRotas />
     </>
   );
 }

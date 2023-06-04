@@ -1,0 +1,16 @@
+.img {
+	display: inline-block;
+	width: 100px;
+  }
+  
+  .buttons-container {
+	display: inline-block;
+	text-align: center;
+	margin-left: 5%;
+  }
+
+  .botao{
+	margin-right: 10px;
+	width: auto;
+	padding: 10px;
+  }
